@@ -1,0 +1,9 @@
+strongly polynomial algorithm will be polynomial time algorithm which increases based on number of inputs. 
+Weakly polynomial algorithm will be polynomial time and depend on size of input values. 
+
+For example, we have list of elements 
+	
+	if algo 1 runs in polynomial time and its runtime increases based on size of list then it is strongly polynomial algorithm.
+	if algo 2 run in polynomial time and its runtime increases based on size of item in list then it is weakly polynomial algorithm
+
+

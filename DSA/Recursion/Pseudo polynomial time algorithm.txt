@@ -1,0 +1,4 @@
+pseduo polynomial time algorithm means run time of algorithm based on (size of problem) should be polynomial but (based on magnitude of element) it should be exponential.  
+
+
+https://stackoverflow.com/questions/19647658/what-is-pseudopolynomial-time-how-does-it-differ-from-polynomial-time

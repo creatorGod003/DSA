@@ -1,0 +1,17 @@
+KnapSack Pattern  
+
+	1) Given sequeunce of items 
+	each item can be chosen or can't be chosen. 
+
+	2) There is a target variable
+
+	3) You need to maximise something
+
+
+problem that can be solve : 
+		
+1) knapsack problem
+2) equal sum partition
+			  
+	
+	
